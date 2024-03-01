@@ -190,6 +190,6 @@ footer {
 /* Media Queries */
 @media only screen and (max-width: 600px) {
   nav ul li a {
-    display: hidden;
+    display: none;
   }
 }
